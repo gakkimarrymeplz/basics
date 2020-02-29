@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="qingcheng_web_manager-1.0-SNAPSHOT">
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/target/generated-sources/annotations"/>
+        <dependent-module archiveName="qingcheng_interface-1.0-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/qingcheng_interface/qingcheng_interface">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="qingcheng_pojo-1.0-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/qingcheng_pojo/qingcheng_pojo">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="qingcheng_common_web-1.0-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/qingcheng_common_web/qingcheng_common_web">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="qingcheng_common-1.0-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/qingcheng_common/qingcheng_common">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="qingcheng_web_manager"/>
+        <property name="java-output-path" value="/qingcheng_web_manager/target/classes"/>
+    </wb-module>
+</project-modules>

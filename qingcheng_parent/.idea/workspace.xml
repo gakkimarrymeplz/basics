@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d40e2034-eddd-41a1-93fb-95e9c46b669d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/develop/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\develop\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SCKzLbubwB3tIYRsm5jU6BZVmk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/qingcheng_parent" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\qingcheng_parent\qingcheng_web_manager\src\main\webapp" />
+      <recent name="D:\IdeaProjects\qingcheng_parent\qingcheng_web_manager\src\main\resources" />
+      <recent name="D:\IdeaProjects\qingcheng_parent\qingcheng_service_goods\src\main\webapp" />
+      <recent name="D:\IdeaProjects\qingcheng_parent\qingcheng_service_goods\src\main\resources" />
+      <recent name="D:\IdeaProjects\qingcheng_parent\qingcheng_common_web\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="All in qingcheng_web_manager" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qingcheng_web_manager" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in qingcheng_web_manager" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\benja\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d40e2034-eddd-41a1-93fb-95e9c46b669d" name="Default Changelist" comment="" />
+      <created>1571062399152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571062399152</updated>
+      <workItem from="1571062402079" duration="5365000" />
+      <workItem from="1571140245839" duration="1460000" />
+      <workItem from="1571466445553" duration="4016000" />
+      <workItem from="1571477768647" duration="5109000" />
+      <workItem from="1571486336798" duration="1011000" />
+      <workItem from="1571487509469" duration="1530000" />
+      <workItem from="1571489102456" duration="1446000" />
+      <workItem from="1571497184788" duration="2237000" />
+      <workItem from="1571500095757" duration="3393000" />
+      <workItem from="1571567518010" duration="8000" />
+      <workItem from="1571569758190" duration="9000" />
+      <workItem from="1571569776103" duration="844000" />
+      <workItem from="1571572121918" duration="2484000" />
+      <workItem from="1571664367925" duration="2015000" />
+      <workItem from="1571837705771" duration="635000" />
+      <workItem from="1573138288234" duration="239000" />
+      <workItem from="1573222696591" duration="3092000" />
+      <workItem from="1573225819243" duration="1521000" />
+      <workItem from="1573227345627" duration="252000" />
+      <workItem from="1573227903069" duration="459000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交代码。">
+      <created>1571665784563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571665784563</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第二次提交代码。">
+      <created>1573227239107</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573227239107</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交代码。" />
+    <MESSAGE value="第二次提交代码。" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交代码。" />
+  </component>
+</project>

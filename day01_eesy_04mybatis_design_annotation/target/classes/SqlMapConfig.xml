@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <environments default="mysql">
+        <environment id="mysql">
+            <transactionManager type="JDBC"></transactionManager>
+            <dataSource type="POOLED">
+                <property name="driver" value="com.mysql.jdbc.Driver"/>
+                <!--<property name="url" value="jdbc:mysql://192.168.0.113:3306/eesy_mybatis"/>-->
+                <property name="url" value="jdbc:mysql:///eesy_mybatis"/>
+                <property name="username" value="root"/>
+                <property name="password" value="root"/>
+
+            </dataSource>
+        </environment>
+    </environments>
+
+    <mappers>
+        <mapper class="com.zmh.dao.IUserDao"></mapper>
+    </mappers>
+</configuration>
